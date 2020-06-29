@@ -1,0 +1,13 @@
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\netcoreapp3.1\ShutdownTimer.exe
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\netcoreapp3.1\ShutdownTimer.deps.json
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\netcoreapp3.1\ShutdownTimer.runtimeconfig.json
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\netcoreapp3.1\ShutdownTimer.runtimeconfig.dev.json
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\netcoreapp3.1\ShutdownTimer.dll
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\netcoreapp3.1\ShutdownTimer.pdb
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\netcoreapp3.1\ShutdownTimer.csprojAssemblyReference.cache
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\netcoreapp3.1\ShutdownTimer.AssemblyInfoInputs.cache
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\netcoreapp3.1\ShutdownTimer.AssemblyInfo.cs
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\netcoreapp3.1\ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\netcoreapp3.1\ShutdownTimer.dll
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\netcoreapp3.1\ShutdownTimer.pdb
+C:\Users\Synpse\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\netcoreapp3.1\ShutdownTimer.genruntimeconfig.cache
